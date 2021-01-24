@@ -62,6 +62,6 @@ const newRange = new Ranger(ranges[0], ranges[1], numbers[0], numbers[1]);
 // console.log(newRange);
 newRange.start(10, 50, 10);
 
-const newRange2 = new Ranger(ranges[0], ranges[1], numbers[0], numbers[1]);
+// const newRange2 = new Ranger(ranges[0], ranges[1], numbers[0], numbers[1]);
 
-newRange2.start(0, 5, 1);
+// newRange2.start(0, 5, 1);
